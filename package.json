@@ -1,0 +1,7 @@
+{
+  "name": "demo-basic-authentication",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "wilsson",
+  "license": "MIT"
+}
